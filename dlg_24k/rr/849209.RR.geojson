@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LE01",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "RCID": 1, "SNID": 4, "ENID": 1 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.374542756999872, 41.500034138131454, 0.0 ], [ -72.374548181356815, 41.625034944356699, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 2, "SNID": 1, "ENID": 2 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.374548181356815, 41.625034944356699, 0.0 ], [ -72.249537193945685, 41.625033060808121, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 3, "SNID": 2, "ENID": 3 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.249537193945685, 41.625033060808121, 0.0 ], [ -72.249539060237112, 41.500033880316685, 0.0 ] ] } },
+{ "type": "Feature", "properties": { "RCID": 4, "SNID": 3, "ENID": 4 }, "geometry": { "type": "LineString", "coordinates": [ [ -72.249539060237112, 41.500033880316685, 0.0 ], [ -72.374542756999872, 41.500034138131454, 0.0 ] ] } }
+]
+}
